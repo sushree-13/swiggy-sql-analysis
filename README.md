@@ -1,4 +1,3 @@
-# swiggy-sql-analysis
 # Swiggy SQL Data Analysis Project
 
 ## Project Overview
@@ -56,16 +55,6 @@ The following findings will be updated after executing the SQL queries:
 - REPLACE()
 - TRIM()
 - Aggregate Functions
-
-## Project Structure
-
-```text
-Swiggy-SQL-Data-Analysis/
-│
-├── Swiggy_Analysis.sql
-├── README.md
-└── swiggy.csv
-```
 
 ## Conclusion
 
