@@ -1,4 +1,4 @@
-<div align="center">
+<div align="[center](https://thebrandhopper.com/wp-content/uploads/2020/11/swiggy_lfd_3.jpg)">
 
 <img src="images/swiggy-logo.png" width="180" alt="Swiggy Logo">
 
