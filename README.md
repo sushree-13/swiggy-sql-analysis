@@ -1,5 +1,5 @@
 <div align="[center](https://thebrandhopper.com/wp-content/uploads/2020/11/swiggy_lfd_3.jpg)">
-
+<div align="center">
 <img src="images/swiggy-logo.png" width="180" alt="Swiggy Logo">
 
 # Swiggy SQL Data Analysis Project
