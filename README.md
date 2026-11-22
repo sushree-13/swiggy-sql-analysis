@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="images/swiggy-logo.webp"
+<img src="./swiggy-logo-rounded-square-glossy-icon-with-transparent-background-free-png.webp"
      width="180"
      alt="Swiggy Logo">
 
@@ -8,12 +8,7 @@
 
 ### Restaurant Data Analysis Using MySQL
 
-![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
-![SQL](https://img.shields.io/badge/Language-SQL-orange)
-![Project](https://img.shields.io/badge/Project-Data%20Analysis-green)
-
 </div>
-
 ## 📌 Project Overview
 
 This project focuses on analysing Swiggy restaurant data using MySQL to uncover meaningful business insights.
